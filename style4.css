@@ -1,0 +1,66 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 5;
+}
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+header{
+    overflow: hidden;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgba(124, 7, 234, 0.209);
+
+}
+.a2{
+    background-color: rgba(1, 153, 248, 0.267);
+    padding: 0px;
+    overflow: hidden;
+    border: .8px solid;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.a2{
+    padding: 5px;
+}
+.a3{
+    padding: 5px;
+}
+.a4,.a5,.a6,.a7,.a8,.a9{
+    padding: 5px;
+    margin: 5px;
+}
+.a4 input,.a5 input,.a6 input,.a7 input,.a8 textarea,.a9 input{
+    padding: 10px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.a3 p{
+    padding-left: 10px;
+}
+.a10{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(124, 7, 234, 0.209);
+    padding: 15px;
+    border: .8px solid;
+}
+.a8 textarea{
+    width: 500px;
+}
+.a9 input{
+    background-color: rgba(234, 7, 124, 0.173);
+}
+.a9 input:hover{
+    background-color: green;
+}
+
+
+
+
+
+
